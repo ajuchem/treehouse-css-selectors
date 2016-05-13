@@ -1,4 +1,6 @@
-Attribute selectos can target an element by any of its HTML attributes
+## CSS SELECTORS
+
+Attribute selector can target an element by any of its HTML attributes
 
 We can define specific child and sibling selectors with combinators
 
